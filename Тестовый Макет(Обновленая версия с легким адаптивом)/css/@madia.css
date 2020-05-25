@@ -365,3 +365,9 @@
     
     
 }
+
+@media screen and (max-width: 768px ) {
+    .main__sub-container-2 {
+        display: none
+}
+}
